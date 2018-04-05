@@ -4,7 +4,7 @@
 hometown <- "Seattle"
 
 # Assign your name to the variable `my_name`
-
+my_name <- "Alan Aphayarath"
 
 # Assign your height (in inches) to a variable `my_height`
 
